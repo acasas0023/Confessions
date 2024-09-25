@@ -1,0 +1,13 @@
+    id: 1,
+    description: '',
+    date: '',
+    datetime: '',
+    truth: '',
+    disparity: '/5',
+    author: {
+      name: '',
+      role: '',
+      href: '#',
+      imageUrl:
+        '/images/.png',
+    },
